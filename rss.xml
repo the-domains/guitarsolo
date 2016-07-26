@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[guitarsolo]]></title>
+        <description><![CDATA[guitarsolo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jul 2016 17:46:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>guitar solo</p>]]></description>
+            <link>undefinedguitar-solo/index.html</link>
+            <guid isPermaLink="false">6487b752-403a-4b82-832a-b35217a9bce9</guid>
+            <pubDate>Tue, 26 Jul 2016 17:46:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
